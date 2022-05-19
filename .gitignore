@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+checkpoints/
+*.pth
+*.jpg
+venv/
+.idea/
+wandb/
+runs/
